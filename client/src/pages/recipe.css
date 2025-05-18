@@ -1,0 +1,13 @@
+.header {
+  display: inline-flex;
+}
+
+.backArrow {
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.body {
+  margin-left: 27px;
+}
